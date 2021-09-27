@@ -1,0 +1,45 @@
+#jumbotron {
+    background-color: #FFFFCC;
+    text-align: center;
+}
+
+ul {
+    list-style-type:circle;
+}
+
+ul li{
+    padding: 5px;
+}
+
+#info{
+    text-align: center;
+    
+}
+
+#cv {
+    float: right;
+    padding-right: 100px;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+   
+    margin-bottom: 60px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; 
+  }
